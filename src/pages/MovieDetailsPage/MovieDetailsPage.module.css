@@ -1,0 +1,14 @@
+.container {
+    display: flex;
+    gap:16px;
+}
+
+.section {
+    margin-top: 16px;
+}
+
+.imageWrapper {
+    width: 300px;
+    height: 450px;
+    flex-shrink: 0;
+}

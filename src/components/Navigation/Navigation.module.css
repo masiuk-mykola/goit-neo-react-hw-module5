@@ -1,0 +1,18 @@
+.nav {
+    display: flex;
+    gap: 16px;
+}
+
+.nav a {
+    text-decoration: none;
+
+}
+.active {
+    color: red;
+}
+.header {
+    display: flex;
+    padding: 16px 32px;
+    box-shadow: 0px 8px 24px rgba(149, 149, 149, 0.2);
+    width: 100%;
+}
